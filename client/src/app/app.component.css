@@ -1,0 +1,9 @@
+
+.userList {
+    margin-bottom: 20px;
+    font-size: large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-transform: capitalize;
+    border-bottom: mediumblue;
+    
+}
